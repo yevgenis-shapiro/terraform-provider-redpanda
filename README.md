@@ -1,4 +1,5 @@
 Redpanda Console – A UI for Data Streaming
+
 Redpanda Console is a web application that helps you manage and debug your Kafka/Redpanda workloads effortlessly
 
 ![09d848b0-303c-49bd-8a14-64b7a97550c1](https://github.com/user-attachments/assets/e83a0a47-5870-4966-8fb7-8c5162b5ea95)
@@ -26,11 +27,13 @@ Redpanda Transforms: Manage and monitor data transforms deployed in your Redpand
 
 
 
+
 🚀 Technologies
 
 The following tools were used in this project:
 
     Kafka & Redpanda
+
 
 
 ✅ Requirements
