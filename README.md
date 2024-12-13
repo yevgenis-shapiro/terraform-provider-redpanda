@@ -13,6 +13,11 @@ Redpanda Console (previously known as Kowl) is a web application that helps you 
 
 ✅ Cluster overview: List vailable brokers, their space usage, rack id, health, configuration and other information to get a high level overview of your brokers in your cluster.
 
+✅ Security: Create, list or edit Kafka ACLs and SASL-SCRAM users.
+
+✅ Schema Registry: List and manage all aspects of your Avro, Protobuf or JSON schemas within your schema registry.
+
+✅ Kafka connect: Manage connectors from multiple connect clusters, patch configs, view their current state or restart tasks.
 
 🚀 Technologies
 
