@@ -23,11 +23,13 @@ Kafka connect: Manage connectors from multiple connect clusters, patch configs, 
 Redpanda Transforms: Manage and monitor data transforms deployed in your Redpanda cluster.
 
 
+
 🚀 Technologies
 
 The following tools were used in this project:
 
     Kafka & Redpanda
+
 
 ✅ Requirements
 
