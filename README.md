@@ -4,6 +4,7 @@ Redpanda Console (previously known as Kowl) is a web application that helps you 
 
  
 🎯 Features
+
 Message viewer: Explore your topics' messages in our message viewer through ad-hoc queries and dynamic filters. Find any message you want using JavaScript functions to filter messages. Supported encodings are: JSON, Avro, Protobuf, CBOR, XML, MessagePack, Text and Binary (hex view). The used encoding (except Protobuf and CBOR) is recognized automatically.
 
 
