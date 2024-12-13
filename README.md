@@ -7,6 +7,11 @@ Redpanda Console (previously known as Kowl) is a web application that helps you 
 
 Message viewer: Explore your topics' messages in our message viewer through ad-hoc queries and dynamic filters. Find any message you want using JavaScript functions to filter messages. Supported encodings are: JSON, Avro, Protobuf, CBOR, XML, MessagePack, Text and Binary (hex view). The used encoding (except Protobuf and CBOR) is recognized automatically.
 
+Consumer groups: List all your active consumer groups along with their active group offsets, edit group offsets (by group, topic or partition) or delete a consumer group.
+
+Topic overview: Browse through the list of your Kafka topics, check their configuration, space usage, list all consumers who consume a single topic or watch partition details (such as low and high water marks, message count, ...), embed topic documentation from a git repository and more.
+
+
 
 🚀 Technologies
 
