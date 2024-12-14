@@ -10,14 +10,14 @@ Redpanda is a web application that helps you manage and debug your Kafka/Redpand
 🎯 Features :
 
 ```
-1.Message viewer: Explore your topics' messages in our message viewer through ad-hoc queries and dynamic filters. Find any message you want using JavaScript functions to filter messages. Supported encodings are: JSON, Avro, Protobuf, CBOR, XML, MessagePack, Text and Binary (hex view). The used encoding (except Protobuf and CBOR) is recognized automatically.
-2.Consumer groups: List all your active consumer groups along with their active group offsets, edit group offsets (by group, topic or partition) or delete a consumer group.
-3.Topic overview: Browse through the list of your Kafka topics, check their configuration, space usage, list all consumers who consume a single topic or watch partition details (such as low and high water marks, message count, ...), embed topic documentation from a git repository and more.
-4.Cluster overview: List vailable brokers, their space usage, rack id, health, configuration and other information to get a high level overview of your brokers in your cluster.
-5.Security: Create, list or edit Kafka ACLs and SASL-SCRAM users.
-6.Schema Registry: List and manage all aspects of your Avro, Protobuf or JSON schemas within your schema registry.
-7.Kafka connect: Manage connectors from multiple connect clusters, patch configs, view their current state or restart tasks.
-8.Redpanda Transforms: Manage and monitor data transforms deployed in your Redpanda cluster.
+✅ Message viewer: Explore your topics' messages in our message viewer through ad-hoc queries and dynamic filters.Supported encodings are: JSON, Avro, Protobuf, CBOR, XML, MessagePack, Text and Binary.
+✅ Consumer groups: List all your active consumer groups along with their active group offsets, edit group offsets (by group, topic or partition) or delete a consumer group.
+✅ Topic overview: Browse through the list of your Kafka topics, check their configuration, space usage, list all consumers who consume a single topic or watch partition details.
+✅ Cluster overview: List vailable brokers, their space usage, rack id, health, configuration and other information to get a high level overview of your brokers in your cluster.
+✅ Security: Create, list or edit Kafka ACLs and SASL-SCRAM users.
+✅ Schema Registry: List and manage all aspects of your Avro, Protobuf or JSON schemas within your schema registry.
+✅ Kafka connect: Manage connectors from multiple connect clusters, patch configs, view their current state or restart tasks.
+✅ Redpanda Transforms: Manage and monitor data transforms deployed in your Redpanda cluster.
 ```
 
 
