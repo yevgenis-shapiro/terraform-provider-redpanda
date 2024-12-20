@@ -23,9 +23,9 @@ Redpanda is a web application that helps you manage and debug your Kafka/Redpand
 
 🚀 Technologies
 
-The following tools were used in this project:
+The following software were used in this project:
 
-    Redpanda + Kafka + Kafka Connect + Kafka Schema Registry
+    ⭐ Redpanda ⭐ Kafka ⭐ Kafka Connect ⭐ Kafka Schema Registry ⚙️ Terraform
 
 
 
